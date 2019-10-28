@@ -1,0 +1,25 @@
+{
+  "name": "xc-form",
+  "version": "0.0.1",
+  "description": "A form component for antd",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "authors": {
+    "name": "jolylai",
+    "email": "jolylai163@163.com"
+  },
+  "repository": "/xc-form",
+  "scripts": {
+    "dev": "father doc dev",
+    "build": "father build"
+  },
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "devDependencies": {
+    "antd": "^3.24.3",
+    "father": "^2.16.0",
+    "lodash": "^4.17.15"
+  },
+  "license": "MIT"
+}
