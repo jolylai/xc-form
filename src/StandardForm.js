@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Form } from 'antd';
-import FormField from './FormField';
+import FormField from './components/FormField';
 
 class FormComponent extends Component {
   static propTypes = {

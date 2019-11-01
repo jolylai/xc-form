@@ -24,7 +24,7 @@ export default class StandardFormExample extends PureComponent {
 
   fieldData = [
     {
-      name: 'kkk',
+      name: 'custom',
       type: 'custom',
       label: 'Plain Text',
       node: <div>Plain</div>,
